@@ -4,7 +4,8 @@ An NLP project built to check if a news article is fake or real by combining cla
 
 ## 👥 Authors
 - Tirth Kanani  
-- Rushi Gadhiya  
+- Rushi Gadhiya
+- Ruchir Joshi
 
 ## 🎯 What We Tried to Do
 We wanted to solve a simple but important problem: is a news article trustworthy?  
